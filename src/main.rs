@@ -53,7 +53,7 @@ fn inverse_mod((a, b): (u32, u32), n: u32, m: u32) -> (Option<u32>, Option<u32>)
 
 fn main() {
     let n = 5;
-    let m = 8;
+    let m = 9;
 
     let elements = direct_product(n, m);
 
